@@ -46,7 +46,7 @@
 "type":"MultiPolygon","properties":{"name":"Baleares","VARNAME_2":"","HASC_2":"ES.PM.BL","TYPE_2":"Provincia","ENGTYPE_2":"Province"}},{"arcs":[[160,-132,-45,-94,-66]],
 "type":"Polygon","properties":{"name":"La Rioja","VARNAME_2":"","HASC_2":"ES.LO.LR","TYPE_2":"Provincia","ENGTYPE_2":"Province"}},{"arcs":[[161,-133,-161,-65,162],[-64]],
 "type":"Polygon","properties":{"name":"Álava","VARNAME_2":"Araba","HASC_2":"ES.PV.AA","TYPE_2":"Provincia","ENGTYPE_2":"Province"}},{"arcs":[[-134,-162,163,164]],
-"type":"Polygon","properties":{"name":"Gipuzkoa","VARNAME_2":"Guipúzcoa","HASC_2":"ES.PV.GP","TYPE_2":"Provincia","ENGTYPE_2":"Province"}},{"arcs":[[-164,-163,-72,-48,165],[-47]],
-"type":"Polygon","properties":{"name":"Bizkaia","VARNAME_2":"Vizcaya","HASC_2":"ES.PV.VZ","TYPE_2":"Provincia","ENGTYPE_2":"Province"}},{"arcs":[[-54,-81,-148,166]],
+"type":"Polygon","properties":{"name":"Gipúzcoa","VARNAME_2":"Guipúzcoa","HASC_2":"ES.PV.GP","TYPE_2":"Provincia","ENGTYPE_2":"Province"}},{"arcs":[[-164,-163,-72,-48,165],[-47]],
+"type":"Polygon","properties":{"name":"Vizcaya","VARNAME_2":"Vizcaya","HASC_2":"ES.PV.VZ","TYPE_2":"Provincia","ENGTYPE_2":"Province"}},{"arcs":[[-54,-81,-148,166]],
 "type":"Polygon","properties":{"name":"Asturias","VARNAME_2":"","HASC_2":"ES.AS.AS","TYPE_2":"Provincia","ENGTYPE_2":"Province"}},{"arcs":[[-137,167,-3,-15,-100]],
 "type":"Polygon","properties":{"name":"Murcia","VARNAME_2":"","HASC_2":"ES.MU.MR","TYPE_2":"Provincia","ENGTYPE_2":"Province"}}]}}}
