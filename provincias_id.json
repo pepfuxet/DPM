@@ -1,0 +1,210 @@
+[
+	{
+		"ID_2": 13596,
+		"name": "Almería"
+	},
+	{
+		"ID_2": 13597,
+		"name": "Cádiz"
+	},
+	{
+		"ID_2": 13598,
+		"name": "Córdoba"
+	},
+	{
+		"ID_2": 13599,
+		"name": "Granada"
+	},
+	{
+		"ID_2": 33,
+		"name": "Asturias"
+	},
+	{
+		"ID_2": 5,
+		"name": "Ávila"
+	},
+	{
+		"ID_2": 6,
+		"name": "Badajoz"
+	},
+	{
+		"ID_2": 8,
+		"name": "Barcelona"
+	},
+	{
+		"ID_2": 9,
+		"name": "Burgos"
+	},
+	{
+		"ID_2": 10,
+		"name": "Cáceres"
+	},
+	{
+		"ID_2": 11,
+		"name": "Cádiz"
+	},
+	{
+		"ID_2": 39,
+		"name": "Cantabria"
+	},
+	{
+		"ID_2": 12,
+		"name": "Castellón"
+	},
+	{
+		"ID_2": 51,
+		"name": "Ceuta "
+	},
+	{
+		"ID_2": 13,
+		"name": "Ciudad Real"
+	},
+	{
+		"ID_2": 14,
+		"name": "Córdoba"
+	},
+	{
+		"ID_2": 16,
+		"name": "Cuenca"
+	},
+	{
+		"ID_2": 17,
+		"name": "Gerona"
+	},
+	{
+		"ID_2": 18,
+		"name": "Granada"
+	},
+	{
+		"ID_2": 19,
+		"name": "Guadalajara"
+	},
+	{
+		"ID_2": 20,
+		"name": "Guipúzcoa"
+	},
+	{
+		"ID_2": 21,
+		"name": "Huelva"
+	},
+	{
+		"ID_2": 22,
+		"name": "Huesca"
+	},
+	{
+		"ID_2": 7,
+		"name": "Islas Baleares"
+	},
+	{
+		"ID_2": 23,
+		"name": "Jaén"
+	},
+	{
+		"ID_2": 15,
+		"name": "La Coruña"
+	},
+	{
+		"ID_2": 26,
+		"name": "La Rioja"
+	},
+	{
+		"ID_2": 35,
+		"name": "Las Palmas"
+	},
+	{
+		"ID_2": 24,
+		"name": "León"
+	},
+	{
+		"ID_2": 25,
+		"name": "Lérida"
+	},
+	{
+		"ID_2": 27,
+		"name": "Lugo"
+	},
+	{
+		"ID_2": 28,
+		"name": "Madrid"
+	},
+	{
+		"ID_2": 29,
+		"name": "Málaga"
+	},
+	{
+		"ID_2": 52,
+		"name": "Melilla"
+	},
+	{
+		"ID_2": 30,
+		"name": "Murcia"
+	},
+	{
+		"ID_2": 31,
+		"name": "Navarra"
+	},
+	{
+		"ID_2": 32,
+		"name": "Orense"
+	},
+	{
+		"ID_2": 34,
+		"name": "Palencia"
+	},
+	{
+		"ID_2": 36,
+		"name": "Pontevedra"
+	},
+	{
+		"ID_2": 37,
+		"name": "Salamanca"
+	},
+	{
+		"ID_2": 38,
+		"name": "Santa Cruz de Tenerife"
+	},
+	{
+		"ID_2": 40,
+		"name": "Segovia"
+	},
+	{
+		"ID_2": 41,
+		"name": "Sevilla"
+	},
+	{
+		"ID_2": 42,
+		"name": "Soria"
+	},
+	{
+		"ID_2": 43,
+		"name": "Tarragona"
+	},
+	{
+		"ID_2": 44,
+		"name": "Teruel"
+	},
+	{
+		"ID_2": 45,
+		"name": "Toledo"
+	},
+	{
+		"ID_2": 46,
+		"name": "Valencia"
+	},
+	{
+		"ID_2": 47,
+		"name": "Valladolid"
+	},
+	{
+		"ID_2": 48,
+		"name": "Vizcaya"
+	},
+	{
+		"ID_2": 49,
+		"name": "Zamora"
+	},
+	{
+		"ID_2": 50,
+		"name": "Zaragoza"
+	}
+]
