@@ -1932,7 +1932,7 @@
 				307]]
 			},
 			{
-				"type": "Polygon",
+				"type": "MultiPolygon",
 				"properties": {
 					"cpro": 48,
 					"name_3": "n.a. (261)",
