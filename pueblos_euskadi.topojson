@@ -1,0 +1,1704 @@
+{
+  "type" : "FeatureCollection",
+  "name" : "Pueblos de Euskadi ",
+  "features" : [ {
+    "id" : 2,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1053881, 43.0475822 ]
+    },
+    "properties" : {
+      "documentname" : "Abaltzisketa",
+      "documentdescription" : "Emplazado en un lugar inmejorable, en las estribaciones de la Sierra de Aralar y bajo las faldas ...",
+      "templatetype" : "Localidades",
+      "locality" : "Abaltzisketa",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Abaltzisketa",
+      "municipalitycode" : "001",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/abaltzisketa/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005443_d2_rec_turismo/es_5443/5443-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005443_d2_rec_turismo/es_5443/data/5443_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005443_d2_rec_turismo/r01Index/0000005443_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005443_d2_rec_turismo/opendata/0000005443_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 4,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0500787, 43.2037922 ]
+    },
+    "properties" : {
+      "documentname" : "Aduna",
+      "documentdescription" : "El verde es el color predominante en los alrededores de este pequeño municipio de Gipuzkoa...",
+      "templatetype" : "Localidades",
+      "locality" : "Aduna",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Aduna",
+      "municipalitycode" : "002",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/aduna/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005441_d2_rec_turismo/es_5441/5441-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005441_d2_rec_turismo/es_5441/data/5441_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005441_d2_rec_turismo/r01Index/0000005441_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005441_d2_rec_turismo/opendata/0000005441_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 8,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1371801, 43.1297228 ]
+    },
+    "properties" : {
+      "documentname" : "Albiztur",
+      "documentdescription" : "Nada más llegar a esta localidad de la comarca de Tolosaldea, nos toparemos con múl...",
+      "templatetype" : "Localidades",
+      "locality" : "Albiztur",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Albiztur",
+      "municipalitycode" : "004",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/albiztur/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005502_d2_rec_turismo/es_5502/5502-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005502_d2_rec_turismo/es_5502/data/5502_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005502_d2_rec_turismo/r01Index/0000005502_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005502_d2_rec_turismo/opendata/0000005502_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 11,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1094362, 43.1724342 ]
+    },
+    "properties" : {
+      "documentname" : "Alkiza",
+      "documentdescription" : "Alkiza es un acogedor municipio del territorio histórico de Gipuzkoa y está emplaza...",
+      "templatetype" : "Localidades",
+      "locality" : "Alkiza",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Alkiza",
+      "municipalitycode" : "006",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/alkiza/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005582_d2_rec_turismo/es_5582/5582-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005582_d2_rec_turismo/es_5582/data/5582_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005582_d2_rec_turismo/r01Index/0000005582_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005582_d2_rec_turismo/opendata/0000005582_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 13,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.153833, 43.06449 ]
+    },
+    "properties" : {
+      "documentname" : "Altzaga",
+      "documentdescription" : "Esta localidad rural del territorio histórico de Gipuzkoa se halla en la comarca del Goier...",
+      "templatetype" : "Localidades",
+      "locality" : "Altzaga",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Altzaga",
+      "municipalitycode" : "906",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/altzaga/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005586_d2_rec_turismo/es_5586/5586-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005586_d2_rec_turismo/es_5586/data/5586_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005586_d2_rec_turismo/r01Index/0000005586_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005586_d2_rec_turismo/opendata/0000005586_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 14,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0839046, 43.1000723 ]
+    },
+    "properties" : {
+      "documentname" : "Altzo",
+      "documentdescription" : "El Gigante de Altzo, fue el hombre que hizo conocido este pequeño pueblo guipuzcoano. Much...",
+      "templatetype" : "Localidades",
+      "locality" : "Altzo",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Altzo",
+      "municipalitycode" : "007",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/altzo/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005681_d2_rec_turismo/es_5681/5681-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005681_d2_rec_turismo/es_5681/data/5681_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005681_d2_rec_turismo/r01Index/0000005681_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005681_d2_rec_turismo/opendata/0000005681_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 20,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0706951, 43.1614674 ]
+    },
+    "properties" : {
+      "documentname" : "Anoeta",
+      "documentdescription" : "Separado por el río Oria de su vecina Irura, y cerca de los montes Gazume y Ernio, se encu...",
+      "templatetype" : "Localidades",
+      "locality" : "Anoeta",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Anoeta",
+      "municipalitycode" : "010",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/anoeta/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005790_d2_rec_turismo/es_5790/5790-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005790_d2_rec_turismo/es_5790/data/5790_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005790_d2_rec_turismo/r01Index/0000005790_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005790_d2_rec_turismo/opendata/0000005790_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 21,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.3817472, 43.0994407 ]
+    },
+    "properties" : {
+      "documentname" : "Antzuola",
+      "documentdescription" : "Perteneciente a la comarca de Debagoiena, en las faldas del puerto de Descarga, nos topamos con u...",
+      "templatetype" : "Localidades",
+      "locality" : "Antzuola",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Antzuola",
+      "municipalitycode" : "011",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/antzuola/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005791_d2_rec_turismo/es_5791/5791-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005791_d2_rec_turismo/es_5791/data/5791_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005791_d2_rec_turismo/r01Index/0000005791_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005791_d2_rec_turismo/opendata/0000005791_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 22,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.940295, 43.152904 ]
+    },
+    "properties" : {
+      "documentname" : "Arakaldo",
+      "documentdescription" : "La anteiglesia y municipio de menor población de toda Bizkaia, Arakaldo, se encuentra situ...",
+      "templatetype" : "Localidades",
+      "locality" : "Arakaldo",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Arakaldo",
+      "municipalitycode" : "005",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/arakaldo/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005568_d2_rec_turismo/es_5568/5568-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005568_d2_rec_turismo/es_5568/data/5568_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005568_d2_rec_turismo/r01Index/0000005568_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005568_d2_rec_turismo/opendata/0000005568_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 23,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1655576, 43.0636373 ]
+    },
+    "properties" : {
+      "documentname" : "Arama",
+      "documentdescription" : "Con apenas 190 habitantes y 1,3 km² de superficie, Arama es el municipio más peque&nt...",
+      "templatetype" : "Localidades",
+      "locality" : "Arama",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Arama",
+      "municipalitycode" : "012",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/arama/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005792_d2_rec_turismo/es_5792/5792-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005792_d2_rec_turismo/es_5792/data/5792_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005792_d2_rec_turismo/r01Index/0000005792_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005792_d2_rec_turismo/opendata/0000005792_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 41,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.947645730688464, 43.28066802127562 ]
+    },
+    "properties" : {
+      "documentname" : "Astigarraga",
+      "documentdescription" : "El río de Urumea rodea esta localidad. Hablamos de Astigarraga, cuna de la sidra, ubicada ...",
+      "templatetype" : "Localidades",
+      "locality" : "Astigarraga",
+      "marks" : "Montes y Valles vascos,San Sebastián",
+      "municipality" : "Astigarraga",
+      "municipalitycode" : "903",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/astigarraga/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005021_d2_rec_turismo/es_5021/5021-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005021_d2_rec_turismo/es_5021/data/5021_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005021_d2_rec_turismo/r01Index/0000005021_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005021_d2_rec_turismo/opendata/0000005021_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 50,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1292347, 43.069306 ]
+    },
+    "properties" : {
+      "documentname" : "Baliarrain",
+      "documentdescription" : "En una de las laderas del monte Altzagamendi, en las últimas estribaciones de la Sierra de...",
+      "templatetype" : "Localidades",
+      "locality" : "Baliarrain",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Baliarrain",
+      "municipalitycode" : "904",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/baliarrain/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006503_d2_rec_turismo/es_6503/6503-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006503_d2_rec_turismo/es_6503/data/6503_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006503_d2_rec_turismo/r01Index/0000006503_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006503_d2_rec_turismo/opendata/0000006503_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 56,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.679144, 42.53029 ]
+    },
+    "properties" : {
+      "documentname" : "Baños de Ebro/Mañueta",
+      "documentdescription" : "Este bello municipio se halla al sur del territorio histórico de Álava, a la vera d...",
+      "templatetype" : "Localidades",
+      "locality" : "Baños de Ebro/Mañueta",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Baños de Ebro/Mañueta",
+      "municipalitycode" : "011",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/banos-de-ebro-manueta/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005604_d2_rec_turismo/es_5604/5604-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005604_d2_rec_turismo/es_5604/data/5604_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005604_d2_rec_turismo/r01Index/0000005604_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005604_d2_rec_turismo/opendata/0000005604_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 59,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.2001131, 43.1341913 ]
+    },
+    "properties" : {
+      "documentname" : "Beizama",
+      "documentdescription" : "Ubicada en el territorio histórico de Gipuzkoa, Beizama es una localidad de la comarca de ...",
+      "templatetype" : "Localidades",
+      "locality" : "Beizama",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Beizama",
+      "municipalitycode" : "020",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/beizama/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006561_d2_rec_turismo/es_6561/6561-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006561_d2_rec_turismo/es_6561/data/6561_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006561_d2_rec_turismo/r01Index/0000006561_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006561_d2_rec_turismo/opendata/0000006561_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 60,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0507054, 43.1352829 ]
+    },
+    "properties" : {
+      "documentname" : "Belauntza",
+      "documentdescription" : "En el territorio histórico de Gipuzkoa, en una ladera pendiente se sitúa esta local...",
+      "templatetype" : "Localidades",
+      "locality" : "Belauntza",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Belauntza",
+      "municipalitycode" : "021",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/belauntza/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006581_d2_rec_turismo/es_6581/6581-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006581_d2_rec_turismo/es_6581/data/6581_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006581_d2_rec_turismo/r01Index/0000006581_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006581_d2_rec_turismo/opendata/0000006581_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 69,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0263738, 43.1454785 ]
+    },
+    "properties" : {
+      "documentname" : "Berrobi",
+      "documentdescription" : "Nada más llegar a Berrobi, a las laderas del monte Uzturre, quedaremos cautivados por el c...",
+      "templatetype" : "Localidades",
+      "locality" : "Berrobi",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Berrobi",
+      "municipalitycode" : "023",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/berrobi/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006721_d2_rec_turismo/es_6721/6721-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006721_d2_rec_turismo/es_6721/data/6721_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006721_d2_rec_turismo/r01Index/0000006721_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006721_d2_rec_turismo/opendata/0000006721_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 71,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.923446364418055, 43.256961046580166 ]
+    },
+    "properties" : {
+      "documentname" : "Bilbao",
+      "documentdescription" : "Bilbao es entre las ciudades vascas la más cosmopolita, poblada e inquieta. Se trata de un...",
+      "templatetype" : "Localidades",
+      "locality" : "Bilbao",
+      "marks" : "Costa Vasca,Bilbao",
+      "municipality" : "Bilbao",
+      "municipalitycode" : "020",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/top10/localidades/bilbao/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000004981_d2_rec_turismo/es_4981/4981-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000004981_d2_rec_turismo/es_4981/data/4981_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000004981_d2_rec_turismo/r01Index/0000004981_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000004981_d2_rec_turismo/opendata/0000004981_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 77,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.632655, 43.169068 ]
+    },
+    "properties" : {
+      "documentname" : "Durango",
+      "documentdescription" : "Durango es un bello municipio del Duranguesado, atravesado por el río Ibaizabal. Se sit&ua...",
+      "templatetype" : "Localidades",
+      "locality" : "Durango",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Durango",
+      "municipalitycode" : "027",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/durango/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006821_d2_rec_turismo/es_6821/6821-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006821_d2_rec_turismo/es_6821/data/6821_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006821_d2_rec_turismo/r01Index/0000006821_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006821_d2_rec_turismo/opendata/0000006821_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 80,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6398, 43.403422 ]
+    },
+    "properties" : {
+      "documentname" : "Elantxobe",
+      "documentdescription" : "Municipio costero del territorio histórico de Bizkaia, Elantxobe se abriga en el cabo Ogo&...",
+      "templatetype" : "Localidades",
+      "locality" : "Elantxobe",
+      "marks" : "Costa Vasca",
+      "municipality" : "Elantxobe",
+      "municipalitycode" : "031",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/elantxobe/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006901_d2_rec_turismo/es_6901/6901-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006901_d2_rec_turismo/es_6901/data/6901_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006901_d2_rec_turismo/r01Index/0000006901_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006901_d2_rec_turismo/opendata/0000006901_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 82,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.618277, 42.515072 ]
+    },
+    "properties" : {
+      "documentname" : "Elciego",
+      "documentdescription" : "El ciego se sitúa al sur de la Rioja Alavesa, en el territorio histórico ...",
+      "templatetype" : "Localidades",
+      "locality" : "Elciego",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Elciego",
+      "municipalitycode" : "022",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/elciego/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005801_d2_rec_turismo/es_5801/5801-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005801_d2_rec_turismo/es_5801/data/5801_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005801_d2_rec_turismo/r01Index/0000005801_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005801_d2_rec_turismo/opendata/0000005801_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 83,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0004883, 43.140712 ]
+    },
+    "properties" : {
+      "documentname" : "Elduain",
+      "documentdescription" : "En la localidad de Elduain, rodeada por montes como Urdelar y Aitzgorri y atravesada por el r&iac...",
+      "templatetype" : "Localidades",
+      "locality" : "Elduain",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Elduain",
+      "municipalitycode" : "031",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/elduain/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006822_d2_rec_turismo/es_6822/6822-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006822_d2_rec_turismo/es_6822/data/6822_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006822_d2_rec_turismo/r01Index/0000006822_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006822_d2_rec_turismo/opendata/0000006822_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 84,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4873921, 43.1365716 ]
+    },
+    "properties" : {
+      "documentname" : "Elgeta",
+      "documentdescription" : "Asomándose por el Oeste del territorio histórico de Gipuzkoa, Elgeta se encuentra e...",
+      "templatetype" : "Localidades",
+      "locality" : "Elgeta",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Elgeta",
+      "municipalitycode" : "033",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/elgeta/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007462_d2_rec_turismo/es_7462/7462-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007462_d2_rec_turismo/es_7462/data/7462_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007462_d2_rec_turismo/r01Index/0000007462_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007462_d2_rec_turismo/opendata/0000007462_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 87,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.544915, 42.570497 ]
+    },
+    "properties" : {
+      "documentname" : "Elvillar/Bilar",
+      "documentdescription" : "Elvillar/Bilar es un pequeño municipio situado a unos 585 metros de altitud al sur de...",
+      "templatetype" : "Localidades",
+      "locality" : "Elvillar/Bilar",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Elvillar/Bilar",
+      "municipalitycode" : "023",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/elvillar-bilar/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000005044_d2_rec_turismo/es_5044/5044-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005044_d2_rec_turismo/es_5044/data/5044_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005044_d2_rec_turismo/r01Index/0000005044_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000005044_d2_rec_turismo/opendata/0000005044_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 90,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5026072, 43.1866423 ]
+    },
+    "properties" : {
+      "documentname" : "Ermua",
+      "documentdescription" : "Ermua se sitúa en el extremo oriental de la comarca vizcaína del Duranguesado y lin...",
+      "templatetype" : "Localidades",
+      "locality" : "Ermua",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Ermua",
+      "municipalitycode" : "034",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/ermua/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007163_d2_rec_turismo/es_7163/7163-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007163_d2_rec_turismo/es_7163/data/7163_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007163_d2_rec_turismo/r01Index/0000007163_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007163_d2_rec_turismo/opendata/0000007163_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 91,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.899633, 43.312752 ]
+    },
+    "properties" : {
+      "documentname" : "Errenteria",
+      "documentdescription" : "La localidad guipuzcoana de Errenteria, con un pasado industrial, cuenta con el Casco Hist&oacute...",
+      "templatetype" : "Localidades",
+      "locality" : "Errenteria",
+      "marks" : "Montes y Valles vascos",
+      "web" : "http://www.errenteria.eus",
+      "municipality" : "Errenteria",
+      "municipalitycode" : "067",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/errenteria/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006961_d2_rec_turismo/es_6961/6961-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006961_d2_rec_turismo/es_6961/data/6961_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006961_d2_rec_turismo/r01Index/0000006961_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006961_d2_rec_turismo/opendata/0000006961_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 101,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1323701, 43.0526286 ]
+    },
+    "properties" : {
+      "documentname" : "Gaintza",
+      "documentdescription" : "Gaintza es un pequeño municipio rural y acogedor a las faldas del monte Txindoki. Lo forma...",
+      "templatetype" : "Localidades",
+      "locality" : "Gaintza | Diseminado",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Gaintza",
+      "municipalitycode" : "037",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/gaintza/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007302_d2_rec_turismo/es_7302/7302-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007302_d2_rec_turismo/es_7302/data/7302_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007302_d2_rec_turismo/r01Index/0000007302_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007302_d2_rec_turismo/opendata/0000007302_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 108,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0222784, 43.1165792 ]
+    },
+    "properties" : {
+      "documentname" : "Gaztelu",
+      "documentdescription" : "Situada en plena naturaleza, esta localidad de la comarca de Tolosaldea, se encuentra rodeada de ...",
+      "templatetype" : "Localidades",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Gaztelu",
+      "municipalitycode" : "907",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/gaztelu/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007362_d2_rec_turismo/es_7362/7362-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007362_d2_rec_turismo/es_7362/data/7362_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007362_d2_rec_turismo/r01Index/0000007362_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007362_d2_rec_turismo/opendata/0000007362_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 118,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0850252, 43.1544672 ]
+    },
+    "properties" : {
+      "documentname" : "Hernialde",
+      "documentdescription" : "Emplazado en un punto alto del valle del Oria, en las laderas del monte Ernio, se encuentra esta ...",
+      "templatetype" : "Localidades",
+      "locality" : "Hernialde",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Hernialde",
+      "municipalitycode" : "041",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/hernialde/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007501_d2_rec_turismo/es_7501/7501-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007501_d2_rec_turismo/es_7501/data/7501_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007501_d2_rec_turismo/r01Index/0000007501_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007501_d2_rec_turismo/opendata/0000007501_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 120,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0654624, 43.1323447 ]
+    },
+    "properties" : {
+      "documentname" : "Ibarra",
+      "documentdescription" : "Ibarra es un municipio guipuzcoano perteneciente a la comarca de Tolosaldea, que se ha convertido...",
+      "templatetype" : "Localidades",
+      "locality" : "Ibarra",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Ibarra",
+      "municipalitycode" : "042",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/ibarra/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007681_d2_rec_turismo/es_7681/7681-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007681_d2_rec_turismo/es_7681/data/7681_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007681_d2_rec_turismo/r01Index/0000007681_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007681_d2_rec_turismo/opendata/0000007681_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 124,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1238998, 43.0949601 ]
+    },
+    "properties" : {
+      "documentname" : "Ikaztegieta",
+      "documentdescription" : "Aunque pertenece a la comarca de Tolosaldea, la localidad de Ikaztegieta mantiene estrechos lazos...",
+      "templatetype" : "Localidades",
+      "locality" : "Ikaztegieta",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Ikaztegieta",
+      "municipalitycode" : "044",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/ikaztegieta/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007821_d2_rec_turismo/es_7821/7821-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007821_d2_rec_turismo/es_7821/data/7821_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007821_d2_rec_turismo/r01Index/0000007821_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007821_d2_rec_turismo/opendata/0000007821_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 126,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0654296875, 43.16512263158295 ]
+    },
+    "properties" : {
+      "documentname" : "Irura",
+      "documentdescription" : "En las estribaciones de la Sierra de Aralar y bajo el monte Txindoki se encuentra este peque&ntil...",
+      "templatetype" : "Localidades",
+      "locality" : "Irura",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Irura",
+      "municipalitycode" : "046",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/irura/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007961_d2_rec_turismo/es_7961/7961-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007961_d2_rec_turismo/es_7961/data/7961_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007961_d2_rec_turismo/r01Index/0000007961_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007961_d2_rec_turismo/opendata/0000007961_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 130,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1673935, 43.0669322 ]
+    },
+    "properties" : {
+      "documentname" : "Itsasondo",
+      "documentdescription" : "Pequeño pueblo rural, dividido en dos barrios, en el que el sector minero ha tenido gran r...",
+      "templatetype" : "Localidades",
+      "locality" : "Itsasondo",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Itsasondo",
+      "municipalitycode" : "047",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/itsasondo/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008001_d2_rec_turismo/es_8001/8001-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008001_d2_rec_turismo/es_8001/data/8001_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008001_d2_rec_turismo/r01Index/0000008001_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008001_d2_rec_turismo/opendata/0000008001_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 132,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6408405433776894, 43.153728823262554 ]
+    },
+    "properties" : {
+      "documentname" : "Izurtza",
+      "documentdescription" : "Entre las imponentes masas rocosas de Mugarra y Untzillaitz, y al borde del río Mañ...",
+      "templatetype" : "Localidades",
+      "locality" : "Izurtza | Diseminado",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Izurtza",
+      "municipalitycode" : "050",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/izurtza/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008261_d2_rec_turismo/es_8261/8261-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008261_d2_rec_turismo/es_8261/data/8261_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008261_d2_rec_turismo/r01Index/0000008261_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008261_d2_rec_turismo/opendata/0000008261_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 134,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.516079, 42.591666 ]
+    },
+    "properties" : {
+      "documentname" : "Kripan",
+      "documentdescription" : "Este bello municipio del territorio histórico de Álava pertenece a la Cuadrilla de ...",
+      "templatetype" : "Localidades",
+      "locality" : "Kripan",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Kripan",
+      "municipalitycode" : "019",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/kripan/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006381_d2_rec_turismo/es_6381/6381-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006381_d2_rec_turismo/es_6381/data/6381_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006381_d2_rec_turismo/r01Index/0000006381_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006381_d2_rec_turismo/opendata/0000006381_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 140,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.439148, 43.221169 ]
+    },
+    "properties" : {
+      "documentname" : "Lanestosa",
+      "documentdescription" : "La privilegiada situación geográfica, tanto desde el punto de vista natural como es...",
+      "templatetype" : "Localidades",
+      "locality" : "Lanestosa",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Lanestosa",
+      "municipalitycode" : "051",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/lanestosa/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008401_d2_rec_turismo/es_8401/8401-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008401_d2_rec_turismo/es_8401/data/8401_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008401_d2_rec_turismo/r01Index/0000008401_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008401_d2_rec_turismo/opendata/0000008401_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 142,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.575319, 42.494702 ]
+    },
+    "properties" : {
+      "documentname" : "Lapuebla de Labarca",
+      "documentdescription" : "Situada a orillas del río Ebro, Lapuebla de Labarca se encuentra en el extremo meridional ...",
+      "templatetype" : "Localidades",
+      "locality" : "Lapuebla de Labarca",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Lapuebla de Labarca",
+      "municipalitycode" : "033",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/lapuebla-de-labarca/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006661_d2_rec_turismo/es_6661/6661-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006661_d2_rec_turismo/es_6661/data/6661_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006661_d2_rec_turismo/r01Index/0000006661_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006661_d2_rec_turismo/opendata/0000006661_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 144,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.102534, 43.187739 ]
+    },
+    "properties" : {
+      "documentname" : "Larraul",
+      "documentdescription" : "Llegamos a Larraul, municipio de la comarca de Tolosaldea y ubicado en las estribaciones del mont...",
+      "templatetype" : "Localidades",
+      "locality" : "Larraul",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Larraul",
+      "municipalitycode" : "048",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/larraul/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008101_d2_rec_turismo/es_8101/8101-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008101_d2_rec_turismo/es_8101/data/8101_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008101_d2_rec_turismo/r01Index/0000008101_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008101_d2_rec_turismo/opendata/0000008101_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 150,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1509094, 43.0857943 ]
+    },
+    "properties" : {
+      "documentname" : "Legorreta",
+      "documentdescription" : "Legorreta, es un municipio de Gipuzkoa que bajo el abrigo de los montes Zazpiturrieta, Igetagain ...",
+      "templatetype" : "Localidades",
+      "locality" : "Legorreta",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Legorreta",
+      "municipalitycode" : "052",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/legorreta/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008321_d2_rec_turismo/es_8321/8321-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008321_d2_rec_turismo/es_8321/data/8321_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008321_d2_rec_turismo/r01Index/0000008321_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008321_d2_rec_turismo/opendata/0000008321_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 152,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.568626, 42.987112 ]
+    },
+    "properties" : {
+      "documentname" : "Leintz-Gatzaga",
+      "documentdescription" : "Vinculada tradicionalmente a la explotación de la sal, Leintz-Gatzaga es un pequeño...",
+      "templatetype" : "Localidades",
+      "locality" : "Leintz-Gatzaga",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Leintz Gatzaga",
+      "municipalitycode" : "068",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/leintz-gatzaga/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008342_d2_rec_turismo/es_8342/8342-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008342_d2_rec_turismo/es_8342/data/8342_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008342_d2_rec_turismo/r01Index/0000008342_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008342_d2_rec_turismo/opendata/0000008342_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 154,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4959401779099153, 43.362054399640236 ]
+    },
+    "properties" : {
+      "documentname" : "Lekeitio",
+      "documentdescription" : "Lekeitio es un bonito pueblo pesquero que está situado en la costa de Bizkaia, en la comar...",
+      "templatetype" : "Localidades",
+      "locality" : "Lekeitio",
+      "marks" : "Costa Vasca",
+      "municipality" : "Lekeitio",
+      "municipalitycode" : "057",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/lekeitio/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008501_d2_rec_turismo/es_8501/8501-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008501_d2_rec_turismo/es_8501/data/8501_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008501_d2_rec_turismo/r01Index/0000008501_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008501_d2_rec_turismo/opendata/0000008501_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 155,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7741164, 43.2087592 ]
+    },
+    "properties" : {
+      "documentname" : "Lemoa",
+      "documentdescription" : "Dos ríos atraviesan este municipio de la comarca de Arratia, el Ibaizabal y su afluente Ar...",
+      "templatetype" : "Localidades",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Lemoa",
+      "municipalitycode" : "055",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/lemoa/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008653_d2_rec_turismo/es_8653/8653-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008653_d2_rec_turismo/es_8653/data/8653_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008653_d2_rec_turismo/r01Index/0000008653_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008653_d2_rec_turismo/opendata/0000008653_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 157,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.633635, 42.566068 ]
+    },
+    "properties" : {
+      "documentname" : "Leza",
+      "documentdescription" : "El acogedor municipio de Leza está situado en el territorio histórico de Ála...",
+      "templatetype" : "Localidades",
+      "locality" : "Leza",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Leza",
+      "municipalitycode" : "034",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/leza/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006781_d2_rec_turismo/es_6781/6781-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006781_d2_rec_turismo/es_6781/data/6781_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006781_d2_rec_turismo/r01Index/0000006781_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006781_d2_rec_turismo/opendata/0000006781_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 159,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.898775, 43.321127 ]
+    },
+    "properties" : {
+      "documentname" : "Lezo",
+      "documentdescription" : "Lezo es un municipio que cuenta con el monte Jaizkibel como su cota más alta. Asimismo el ...",
+      "templatetype" : "Localidades",
+      "locality" : "Lezo",
+      "marks" : "Costa Vasca,Montes y Valles vascos",
+      "web" : "http://www.lezo.eus",
+      "municipality" : "Lezo",
+      "municipalitycode" : "053",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/lezo/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008371_d2_rec_turismo/es_8371/8371-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008371_d2_rec_turismo/es_8371/data/8371_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008371_d2_rec_turismo/r01Index/0000008371_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008371_d2_rec_turismo/opendata/0000008371_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 160,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0342544, 43.1037203 ]
+    },
+    "properties" : {
+      "documentname" : "Lizartza",
+      "documentdescription" : "Un entorno natural incomparable salpicado por preciosos caseríos, y un encantador casco ur...",
+      "templatetype" : "Localidades",
+      "locality" : "Lizartza",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Lizartza",
+      "municipalitycode" : "054",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/lizartza/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008442_d2_rec_turismo/es_8442/8442-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008442_d2_rec_turismo/es_8442/data/8442_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008442_d2_rec_turismo/r01Index/0000008442_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008442_d2_rec_turismo/opendata/0000008442_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 161,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.965044936523441, 43.14533599787141 ]
+    },
+    "properties" : {
+      "documentname" : "Llodio/Laudio",
+      "documentdescription" : "Situado en el precioso Valle de Ayala y atravesado por el río Nervión, Llodio es un...",
+      "templatetype" : "Localidades",
+      "locality" : "Laudio/Llodio",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Laudio/Llodio",
+      "municipalitycode" : "036",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/llodio-laudio/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006477_d2_rec_turismo/es_6477/6477-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006477_d2_rec_turismo/es_6477/data/6477_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006477_d2_rec_turismo/r01Index/0000006477_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006477_d2_rec_turismo/opendata/0000006477_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 166,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.660791877246096, 43.13748450000001 ]
+    },
+    "properties" : {
+      "documentname" : "Mañaria",
+      "documentdescription" : "El Parque Natural de Urkiola ocupa gran parte de la superficie de esta pequeña localidad d...",
+      "templatetype" : "Localidades",
+      "locality" : "Mañaria",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Mañaria",
+      "municipalitycode" : "059",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/manaria/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008907_d2_rec_turismo/es_8907/8907-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008907_d2_rec_turismo/es_8907/data/8907_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008907_d2_rec_turismo/r01Index/0000008907_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008907_d2_rec_turismo/opendata/0000008907_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 171,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.40811, 42.524572 ]
+    },
+    "properties" : {
+      "documentname" : "Moreda de Álava",
+      "documentdescription" : "El municipio de Moreda de Álava se halla en la Cuadrilla de Laguardia-Rioja Alavesa, en la...",
+      "templatetype" : "Localidades",
+      "locality" : "Moreda de Álava/Moreda Araba",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Moreda de Álava/Moreda Araba",
+      "municipalitycode" : "039",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/moreda-de-alava/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006841_d2_rec_turismo/es_6841/6841-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006841_d2_rec_turismo/es_6841/data/6841_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006841_d2_rec_turismo/r01Index/0000006841_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006841_d2_rec_turismo/opendata/0000006841_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 176,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.684153, 43.354463 ]
+    },
+    "properties" : {
+      "documentname" : "Murueta",
+      "documentdescription" : "Dentro de la comarca de Busturialdea y regado por el río Gernika, Murueta alberga lugares ...",
+      "templatetype" : "Localidades",
+      "locality" : "Murueta | Diseminado",
+      "marks" : "Costa Vasca,Montes y Valles vascos",
+      "municipality" : "Murueta",
+      "municipalitycode" : "908",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/murueta/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000011513_d2_rec_turismo/es_11513/11513-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011513_d2_rec_turismo/es_11513/data/11513_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011513_d2_rec_turismo/r01Index/0000011513_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011513_d2_rec_turismo/opendata/0000011513_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 178,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.272826, 43.02238 ]
+    },
+    "properties" : {
+      "documentname" : "Mutiloa",
+      "documentdescription" : "Al llegar a este pequeño municipio guipuzcoano situado en el valle del río Mutiloa,...",
+      "templatetype" : "Localidades",
+      "locality" : "Mutiloa",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Mutiloa",
+      "municipalitycode" : "057",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/mutiloa/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008381_d2_rec_turismo/es_8381/8381-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008381_d2_rec_turismo/es_8381/data/8381_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008381_d2_rec_turismo/r01Index/0000008381_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008381_d2_rec_turismo/opendata/0000008381_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 182,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.624532, 42.545171 ]
+    },
+    "properties" : {
+      "documentname" : "Navaridas",
+      "documentdescription" : "El municipio de Navaridas se encuentra en el territorio histórico de Álava, asentad...",
+      "templatetype" : "Localidades",
+      "locality" : "Navaridas",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Navaridas",
+      "municipalitycode" : "041",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/navaridas/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000006861_d2_rec_turismo/es_6861/6861-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006861_d2_rec_turismo/es_6861/data/6861_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006861_d2_rec_turismo/r01Index/0000006861_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000006861_d2_rec_turismo/opendata/0000006861_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 186,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.420475, 43.320698 ]
+    },
+    "properties" : {
+      "documentname" : "Ondarroa",
+      "documentdescription" : "Bañado por las aguas del Cantábrico, Ondarroa se ubica en la desembocadura del r&ia...",
+      "templatetype" : "Localidades",
+      "locality" : "Ondarroa",
+      "marks" : "Costa Vasca",
+      "municipality" : "Ondarroa",
+      "municipalitycode" : "073",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/ondarroa/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000010521_d2_rec_turismo/es_10521/10521-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010521_d2_rec_turismo/es_10521/data/10521_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010521_d2_rec_turismo/r01Index/0000010521_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010521_d2_rec_turismo/opendata/0000010521_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 187,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1781155, 43.0541983 ]
+    },
+    "properties" : {
+      "documentname" : "Ordizia",
+      "documentdescription" : "Ordizia, muy conocida por su mercado semanal, está situada en el interior de Gipuzkoa, a o...",
+      "templatetype" : "Localidades",
+      "locality" : "Ordizia",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Ordizia",
+      "municipalitycode" : "076",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/ordizia/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008621_d2_rec_turismo/es_8621/8621-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008621_d2_rec_turismo/es_8621/data/8621_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008621_d2_rec_turismo/r01Index/0000008621_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008621_d2_rec_turismo/opendata/0000008621_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 189,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1142902, 43.079721 ]
+    },
+    "properties" : {
+      "documentname" : "Orendain",
+      "documentdescription" : "Desde este bello municipio, enclavado en un lugar privilegiado de Gipuzkoa, es posible divisar lo...",
+      "templatetype" : "Localidades",
+      "locality" : "Orendain",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Orendain",
+      "municipalitycode" : "905",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/orendain/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008622_d2_rec_turismo/es_8622/8622-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008622_d2_rec_turismo/es_8622/data/8622_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008622_d2_rec_turismo/r01Index/0000008622_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008622_d2_rec_turismo/opendata/0000008622_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 190,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0113921, 43.0938813 ]
+    },
+    "properties" : {
+      "documentname" : "Orexa",
+      "documentdescription" : "De marcado carácter rural y rodeado de verdes montes, Orexa, es uno de los municipios meno...",
+      "templatetype" : "Localidades",
+      "locality" : "Orexa | Diseminado",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Orexa",
+      "municipalitycode" : "060",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/orexa/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008741_d2_rec_turismo/es_8741/8741-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008741_d2_rec_turismo/es_8741/data/8741_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008741_d2_rec_turismo/r01Index/0000008741_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008741_d2_rec_turismo/opendata/0000008741_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 191,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.126597, 43.278322 ]
+    },
+    "properties" : {
+      "documentname" : "Orio",
+      "documentdescription" : "Este típico pueblo pesquero del litoral guipuzcoano, muy concurrido en la época est...",
+      "templatetype" : "Localidades",
+      "locality" : "Orio",
+      "marks" : "Costa Vasca",
+      "municipality" : "Orio",
+      "municipalitycode" : "061",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/orio/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008743_d2_rec_turismo/es_8743/8743-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008743_d2_rec_turismo/es_8743/data/8743_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008743_d2_rec_turismo/r01Index/0000008743_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008743_d2_rec_turismo/opendata/0000008743_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 192,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.2558477, 43.0427347 ]
+    },
+    "properties" : {
+      "documentname" : "Ormaiztegi",
+      "documentdescription" : "Nada más llegar a este municipio de las inmediaciones del Goierri, quedaremos sorprendidos...",
+      "templatetype" : "Localidades",
+      "locality" : "Ormaiztegi",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Ormaiztegi",
+      "municipalitycode" : "062",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/ormaiztegi/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008903_d2_rec_turismo/es_8903/8903-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008903_d2_rec_turismo/es_8903/data/8903_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008903_d2_rec_turismo/r01Index/0000008903_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008903_d2_rec_turismo/opendata/0000008903_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 201,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.020331, 43.320624 ]
+    },
+    "properties" : {
+      "documentname" : "Portugalete",
+      "documentdescription" : "Portugalete, elegante villa marinera, es uno de los principales núcleos urbanos de la marg...",
+      "templatetype" : "Localidades",
+      "locality" : "Portugalete",
+      "marks" : "Costa Vasca,Bilbao",
+      "municipality" : "Portugalete",
+      "municipalitycode" : "078",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/portugalete/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000011294_d2_rec_turismo/es_11294/11294-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011294_d2_rec_turismo/es_11294/data/11294_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011294_d2_rec_turismo/r01Index/0000011294_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011294_d2_rec_turismo/opendata/0000011294_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 205,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.680179, 42.569853 ]
+    },
+    "properties" : {
+      "documentname" : "Samaniego",
+      "documentdescription" : "Situado al sur del territorio histórico de Álava, Samaniego se encuentra a los pies...",
+      "templatetype" : "Localidades",
+      "locality" : "Samaniego",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Samaniego",
+      "municipalitycode" : "052",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/samaniego/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007242_d2_rec_turismo/es_7242/7242-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007242_d2_rec_turismo/es_7242/data/7242_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007242_d2_rec_turismo/r01Index/0000007242_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007242_d2_rec_turismo/opendata/0000007242_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 209,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.2525193, 43.0092164 ]
+    },
+    "properties" : {
+      "documentname" : "Segura",
+      "documentdescription" : "Segura, es una de las villas medievales del Goierri que merece la pena visitar, tanto por su bell...",
+      "templatetype" : "Localidades",
+      "locality" : "Segura",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Segura",
+      "municipalitycode" : "070",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/segura/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000008802_d2_rec_turismo/es_8802/8802-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008802_d2_rec_turismo/es_8802/data/8802_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008802_d2_rec_turismo/r01Index/0000008802_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000008802_d2_rec_turismo/opendata/0000008802_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 210,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0069397, 43.3096349 ]
+    },
+    "properties" : {
+      "documentname" : "Sestao",
+      "documentdescription" : "Encaramado sobre una pequeña meseta paralela a los Montes de Triano y arropado por la cima...",
+      "templatetype" : "Localidades",
+      "locality" : "Sestao",
+      "marks" : "Bilbao",
+      "municipality" : "Sestao",
+      "municipalitycode" : "084",
+      "territory" : "Bizkaia",
+      "territorycode" : "048",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/sestao/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000011348_d2_rec_turismo/es_11348/11348-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011348_d2_rec_turismo/es_11348/data/11348_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011348_d2_rec_turismo/r01Index/0000011348_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011348_d2_rec_turismo/opendata/0000011348_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 214,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4124943, 43.1754299 ]
+    },
+    "properties" : {
+      "documentname" : "Soraluze-Placencia de las Armas",
+      "documentdescription" : "Villa de gran tradición armera, Soraluze-Placencia de las Armas se halla a orillas del r&i...",
+      "templatetype" : "Localidades",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Soraluze-Placencia de las Armas",
+      "municipalitycode" : "065",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/soraluze-placencia-de-las-armas/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000010173_d2_rec_turismo/es_10173/10173-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010173_d2_rec_turismo/es_10173/data/10173_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010173_d2_rec_turismo/r01Index/0000010173_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010173_d2_rec_turismo/opendata/0000010173_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 222,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.9905166, 43.2481997 ]
+    },
+    "properties" : {
+      "documentname" : "Urnieta",
+      "documentdescription" : "Cerca de San Sebastián, entre los valles del Oria y del Urumea, se encuentra Urnieta, desd...",
+      "templatetype" : "Localidades",
+      "locality" : "Urnieta",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Urnieta",
+      "municipalitycode" : "072",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/urnieta/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000010621_d2_rec_turismo/es_10621/10621-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010621_d2_rec_turismo/es_10621/data/10621_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010621_d2_rec_turismo/r01Index/0000010621_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010621_d2_rec_turismo/opendata/0000010621_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 223,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.314383, 43.092282 ]
+    },
+    "properties" : {
+      "documentname" : "Urretxu",
+      "documentdescription" : "Urretxu es conocida por ser la villa natal de José María Iparragirre, el bardo vasc...",
+      "templatetype" : "Localidades",
+      "locality" : "Urretxu",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Urretxu",
+      "municipalitycode" : "077",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/urretxu/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000010623_d2_rec_turismo/es_10623/10623-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010623_d2_rec_turismo/es_10623/data/10623_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010623_d2_rec_turismo/r01Index/0000010623_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010623_d2_rec_turismo/opendata/0000010623_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 229,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.664435, 42.546724 ]
+    },
+    "properties" : {
+      "documentname" : "Villabuena de Álava",
+      "documentdescription" : "El municipio de Villabuena de Álava se encuentra al sur del territorio histórico de...",
+      "templatetype" : "Localidades",
+      "locality" : "Villabuena de Álava/Eskuernaga",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Villabuena de Álava/Eskuernaga",
+      "municipalitycode" : "057",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/villabuena-de-alava/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007521_d2_rec_turismo/es_7521/7521-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007521_d2_rec_turismo/es_7521/data/7521_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007521_d2_rec_turismo/r01Index/0000007521_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007521_d2_rec_turismo/opendata/0000007521_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 231,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4700643, 42.569303 ]
+    },
+    "properties" : {
+      "documentname" : "Yécora",
+      "documentdescription" : "Situada en un altozano y rodeada de viñedos, esta pequeña localidad de Rioja Alaves...",
+      "templatetype" : "Localidades",
+      "locality" : "Yécora/Iekora",
+      "marks" : "Rioja Alavesa",
+      "municipality" : "Yécora/Iekora",
+      "municipalitycode" : "060",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/yecora/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007561_d2_rec_turismo/es_7561/7561-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007561_d2_rec_turismo/es_7561/data/7561_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007561_d2_rec_turismo/r01Index/0000007561_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007561_d2_rec_turismo/opendata/0000007561_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 233,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.1508942, 43.0379638 ]
+    },
+    "properties" : {
+      "documentname" : "Zaldibia",
+      "documentdescription" : "Zaldibia está situada en el territorio histórico de Gipuzkoa, dentro de la comarca ...",
+      "templatetype" : "Localidades",
+      "locality" : "Zaldibia",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Zaldibia",
+      "municipalitycode" : "078",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/zaldibia/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000010881_d2_rec_turismo/es_10881/10881-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010881_d2_rec_turismo/es_10881/data/10881_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010881_d2_rec_turismo/r01Index/0000010881_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000010881_d2_rec_turismo/opendata/0000010881_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 234,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.347254, 42.885626 ]
+    },
+    "properties" : {
+      "documentname" : "Zalduondo",
+      "documentdescription" : "Este pequeño municipio alavés cuenta con un rico patrimonio histórico, art&i...",
+      "templatetype" : "Localidades",
+      "locality" : "Zalduondo",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Zalduondo",
+      "municipalitycode" : "061",
+      "territory" : "Araba/Álava",
+      "territorycode" : "01",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/zalduondo/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000007541_d2_rec_turismo/es_7541/7541-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007541_d2_rec_turismo/es_7541/data/7541_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007541_d2_rec_turismo/r01Index/0000007541_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000007541_d2_rec_turismo/opendata/0000007541_d2_rec_turismo.zip"
+    }
+  }, {
+    "id" : 243,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.2741177, 43.0121191 ]
+    },
+    "properties" : {
+      "documentname" : "Zerain",
+      "documentdescription" : "Zerain es uno de esos pequeños pueblos que han sabido conservar el encanto del ambiente ru...",
+      "templatetype" : "Localidades",
+      "locality" : "Zerain",
+      "marks" : "Montes y Valles vascos",
+      "municipality" : "Zerain",
+      "municipalitycode" : "026",
+      "territory" : "Gipuzkoa",
+      "territorycode" : "020",
+      "country" : "España",
+      "countrycode" : "108",
+      "friendlyurl" : "https://turismoa.euskadi.eus/es/localidades/zerain/aa30-12375/es/",
+      "physicalurl" : "https://turismoa.euskadi.eus/aa30-12375/es/contenidos/d_destinos_turisticos/0000011142_d2_rec_turismo/es_11142/11142-ficha2.html",
+      "dataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011142_d2_rec_turismo/es_11142/data/11142_openData.xml",
+      "metadataxml" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011142_d2_rec_turismo/r01Index/0000011142_d2_rec_turismo-idxContent.xml",
+      "zipfile" : "https://turismoa.euskadi.eus/contenidos/d_destinos_turisticos/0000011142_d2_rec_turismo/opendata/0000011142_d2_rec_turismo.zip"
+    }
+  } ]
+}
