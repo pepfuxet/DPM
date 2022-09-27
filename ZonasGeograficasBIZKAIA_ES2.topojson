@@ -1496,7 +1496,7 @@
 					"cpro": 48,
 					"name_3": "n.a. (261)",
 					"varname_4": "Echevarría",
-					"provincia": "Vizcaya","Zona Geográfica":"Área metropolitana de Bilbao",
+					"provincia": "Vizcaya","Zona Geográfica":"Bizkaia Interior",
 					"communidad_autonoma": "País Vasco",
 					"cmun": "030",
 					"codigo_postal": 48030,
@@ -1932,6 +1932,39 @@
 				307]]
 			},
 			{
+				"type": "Polygon",
+				"properties": {
+					"cpro": 48,
+					"name_3": "n.a. (261)",
+					"varname_4": "Lemóniz",
+					"provincia": "Vizcaya","Zona Geográfica":"Bizkaia costa",
+					"communidad_autonoma": "País Vasco",
+					"cmun": "056",
+					"codigo_postal": 48056,
+					"engtype_4": "Municipality",
+					"geo_point_2d": [43.415175205597464,
+					-2.899763555074345],
+					"dc": 1,
+					"id_2": 50,
+					"id_3": 348,
+					"id_0": 215,
+					"id_1": 16,
+					"iso": "ESP",
+					"id_4": 8135,
+					"type_4": "Municipality",
+					"pais": "Spain",
+					"ccn_4": 0,
+					"municipio": "Lemoiz"
+				},
+				"arcs": [[-8,
+				-313,
+				-144,
+				341,
+				-312,
+				342,
+				-30]]
+			},
+			{
 				"type": "MultiPolygon",
 				"properties": {
 					"cpro": 48,
@@ -2035,39 +2068,7 @@
 				-218,
 				-225]]
 			},
-			{
-				"type": "Polygon",
-				"properties": {
-					"cpro": 48,
-					"name_3": "n.a. (261)",
-					"varname_4": "Lemóniz",
-					"provincia": "Vizcaya","Zona Geográfica":"Bizkaia costa",
-					"communidad_autonoma": "País Vasco",
-					"cmun": "056",
-					"codigo_postal": 48056,
-					"engtype_4": "Municipality",
-					"geo_point_2d": [43.415175205597464,
-					-2.899763555074345],
-					"dc": 1,
-					"id_2": 50,
-					"id_3": 348,
-					"id_0": 215,
-					"id_1": 16,
-					"iso": "ESP",
-					"id_4": 8135,
-					"type_4": "Municipality",
-					"pais": "Spain",
-					"ccn_4": 0,
-					"municipio": "Lemoiz"
-				},
-				"arcs": [[-8,
-				-313,
-				-144,
-				341,
-				-312,
-				342,
-				-30]]
-			},
+			
 			{
 				"type": "MultiPolygon",
 				"properties": {
@@ -3401,7 +3402,7 @@
 					"cpro": 48,
 					"name_3": "n.a. (261)",
 					"varname_4": "Etxebarri",
-					"provincia": "Vizcaya","Zona Geográfica":"Bizkaia interior",
+					"provincia": "Vizcaya","Zona Geográfica":"Área metropolitana de Bilbao",
 					"communidad_autonoma": "País Vasco",
 					"cmun": "029",
 					"engtype_4": "Municipality",
