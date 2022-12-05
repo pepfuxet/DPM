@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="78" viewBox="0 0 130 78">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 640 384">
+      <image width="640" height="384" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGAAgMAAABASzstAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAADFBMVEUAAADdAAD/zgD///9i/kqcAAAAAWJLR0QDEQxM8gAAAAd0SU1FB+YHHwIuNeij0IcAAADUSURBVHja7c5BDQAACAQgS1rSlIa4j3OQgCoAAAAAAAAAAAAAAAAAAAAAAAAA4L0+TlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUDAPznGCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCsQU9crSiBjf5dQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0wNy0zMVQwMjo0Njo1MyswMDowMDGTTFsAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMDctMzFUMDI6NDY6NTMrMDA6MDBAzvTnAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <rect id="Bandera-Alemania" width="130" height="78" fill="url(#pattern)"/>
+</svg>
